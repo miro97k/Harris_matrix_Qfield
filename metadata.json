@@ -1,0 +1,8 @@
+{
+  "id": "harris_matrix_plugin",
+  "name": "Harris Matrix Generator",
+  "description": "Genera e visualizza la matrice di Harris a partire dai rapporti stratigrafici",
+  "version": "1.0.0",
+  "author": "IlTuoNome",
+  "main": "plugin.qml"
+}
